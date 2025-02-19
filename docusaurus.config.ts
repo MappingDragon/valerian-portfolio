@@ -49,13 +49,13 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: '/static/img/docusaurus-social-card.jpg',
+    image: '/static/img/logo.png',
     navbar: {
       title: 'Valerians Portfolio',
-      // logo: {
-      //   alt: '',
-      //   src: '',
-      // },
+      logo: {
+        alt: 'Caleb Valerian',
+        src: '/static/img/logo.png',
+      },
       items: [
         {
           type: 'docSidebar',
@@ -64,9 +64,11 @@ const config: Config = {
           label: 'Work Samples',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://github.com/MappingDragon/valerian-portfolio',
+          //label: 'GitHub',
           position: 'right',
+          className: "header-github-link",
+          "aria-label": "GitHub repository",
         },
       ],
     },
