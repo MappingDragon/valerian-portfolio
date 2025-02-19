@@ -5,7 +5,7 @@
  */
 
 /* You can override the default Infima variables here. */
-/* @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css); */
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
 
 :root {
   --ifm-color-primary: #b30031;
@@ -36,7 +36,7 @@
 }
 
 .header-github-link:before {
-  content: "\25AE";  /* this is your text. You can also use UTF-8 character codes as I do here */
+  content: "xf09b";  /* this is your text. You can also use UTF-8 character codes as I do here */
   font-family: "Font Awesome 5 Free";
   /* font-weight: 900; */
   left:-5px;
