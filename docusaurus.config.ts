@@ -75,10 +75,11 @@ const config: Config = {
       links: [
         {
           label: 'Work Samples',
-          to: '/docs/work-samples.md',
+          to: '/docs/work-samples',
         },
         {
           label: 'Resume',
+          href: '/static/files/caleb_valerian_resume.pdf',
         },
         {
           label: 'LinkedIn',
