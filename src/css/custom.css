@@ -5,7 +5,6 @@
  */
 
 /* You can override the default Infima variables here. */
-@import 'font-awesome/css/font-awesome.min.css';
 
 :root {
   --ifm-color-primary: #b30031;
@@ -21,12 +20,12 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #fd8cf4;
-  --ifm-color-primary-dark: #fc65f0;
-  --ifm-color-primary-darker: #fc52ee;
-  --ifm-color-primary-darkest: #fb18e9;
-  --ifm-color-primary-light: #feb3f8;
-  --ifm-color-primary-lighter: #fec6fa;
+  --ifm-color-primary: #fea7f8;
+  --ifm-color-primary-dark: #fe7df5;
+  --ifm-color-primary-darker: #fd69f3;
+  --ifm-color-primary-darkest: #fd2aee;
+  --ifm-color-primary-light: #fed1fb;
+  --ifm-color-primary-lighter: #ffe5fd;
   --ifm-color-primary-lightest: #ffffff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
