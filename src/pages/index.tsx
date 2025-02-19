@@ -20,7 +20,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/static/files/caleb_valerian_resume.pdf">
+            >
             Resume
           </Link>
         </div>
@@ -28,6 +28,7 @@ function HomepageHeader() {
     </header>
   );
 }
+// to="/static/files/caleb_valerian_resume.pdf"
 
 export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
