@@ -49,13 +49,13 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: '/static/img/docusaurus-social-card.jpg',
+    image: '',
     navbar: {
       title: 'Valerians Portfolio',
-      // logo: {
-      //   alt: '',
-      //   src: '',
-      // },
+      logo: {
+        alt: '',
+        src: '',
+      },
       items: [
         {
           type: 'docSidebar',
