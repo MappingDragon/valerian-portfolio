@@ -74,30 +74,46 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Work Samples',
-              to: '/docs/work-samples.md',
-            },
-            {
-              label: 'Resume',
-            }
-          ],
+          label: 'Work Samples',
+          to: '/docs/work-samples.md',
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'LinkedIn',
-              href: 'https://www.linkedin.com/in/caleb-valerian-4295025a/',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/MappingDragon/',
-            }
-          ],
+          label: 'Resume',
+          to: 'static/files/caleb_valerian_resume.pdf'
         },
+        {
+          label: 'LinkedIn',
+          href: 'https://www.linkedin.com/in/caleb-valerian-4295025a/',
+        },
+        {
+          label: 'GitHub',
+          href: 'https://github.com/MappingDragon/',
+        },
+        // {
+        //   title: 'Docs',
+        //   items: [
+        //     {
+        //       label: 'Work Samples',
+        //       to: '/docs/work-samples.md',
+        //     },
+        //     {
+        //       label: 'Resume',
+        //     }
+        //   ],
+        // },
+        // {
+        //   title: 'Community',
+        //   items: [
+        //     {
+        //       label: 'LinkedIn',
+        //       href: 'https://www.linkedin.com/in/caleb-valerian-4295025a/',
+        //     },
+        //     {
+        //       label: 'GitHub',
+        //       href: 'https://github.com/MappingDragon/',
+        //     }
+        //   ],
+        // },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
