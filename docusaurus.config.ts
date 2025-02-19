@@ -66,8 +66,14 @@ const config: Config = {
         {
           href: 'https://github.com/MappingDragon/valerian-portfolio',
           position: 'right',
-          className: "header-github-link",
-          "aria-label": "GitHub repository",
+          className: 'navbar__icon navbar__github',
+          html: '<i class="fa-brands fa-github"></i>',
+        },
+        {
+          href: 'https://www.linkedin.com/in/caleb-valerian-4295025a/',
+          position: 'right',
+          className: 'navbar__icon navbar__linkedin',
+          html: '<i class="fa-brands fa-linkedin"></i>',
         },
       ],
     },
