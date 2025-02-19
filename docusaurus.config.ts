@@ -5,9 +5,9 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Caleb Valerian Portfolio',
+  title: 'Caleb Valerian',
   tagline: 'Senior Technical Writer',
-  favicon: 'img/favicon.ico',
+  favicon: '/static/img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://mappingdragon.github.io/',
@@ -53,7 +53,7 @@ const config: Config = {
     navbar: {
       title: 'Valerians Portfolio',
       logo: {
-        alt: 'Caleb Valerian',
+        alt: '',
         src: '/static/img/logo.png',
       },
       items: [
@@ -65,7 +65,6 @@ const config: Config = {
         },
         {
           href: 'https://github.com/MappingDragon/valerian-portfolio',
-          //label: 'GitHub',
           position: 'right',
           className: "header-github-link",
           "aria-label": "GitHub repository",
