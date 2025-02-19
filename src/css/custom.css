@@ -52,7 +52,7 @@
   display: flex;
   height: 24px;
   width: 24px;
-  mask: url(/img/github.svg) no-repeat 100% 100%;
+  /* mask: url(/img/github.svg) no-repeat 100% 100%; */
   mask-size: cover;
   background-color: var(--ifm-navbar-link-color);
 }
