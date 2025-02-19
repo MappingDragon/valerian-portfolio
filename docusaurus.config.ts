@@ -83,10 +83,6 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          label: 'Work Samples',
-          to: '/docs/work-samples',
-        },
-        {
           label: 'LinkedIn',
           href: 'https://www.linkedin.com/in/caleb-valerian-4295025a/',
         },
