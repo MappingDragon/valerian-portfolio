@@ -30,7 +30,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.navbar__icon {
+/* .navbar__icon {
   height: 2rem;
   width: 2rem;
 }
@@ -52,7 +52,7 @@
   display: flex;
   height: 24px;
   width: 24px;
-  /* mask: url(/img/github.svg) no-repeat 100% 100%; */
+  mask: url(/img/github.svg) no-repeat 100% 100%;
   mask-size: cover;
   background-color: var(--ifm-navbar-link-color);
 }
@@ -70,7 +70,7 @@ html[data-theme='dark'] .navbar__github {
 }
 
 .navbar__github:before {
-  /* mask: url(/img/github.svg) no-repeat 100% 100%; */
+  mask: url(/img/github.svg) no-repeat 100% 100%;
   mask-size: cover;
 }
 
@@ -79,6 +79,6 @@ html[data-theme='dark'] .navbar__github {
 }
 
 .navbar__linked:before {
-  /* mask: url(/img/linkedin.svg) no-repeat 100% 100%; */
+  mask: url(/img/linkedin.svg) no-repeat 100% 100%;
   mask-size: cover;
-}
+} */
