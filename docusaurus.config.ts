@@ -78,10 +78,6 @@ const config: Config = {
           to: '/docs/work-samples',
         },
         {
-          label: 'Resume',
-          href: '/static/files/caleb_valerian_resume.pdf',
-        },
-        {
           label: 'LinkedIn',
           href: 'https://www.linkedin.com/in/caleb-valerian-4295025a/',
         },
