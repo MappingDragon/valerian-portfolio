@@ -6,7 +6,7 @@ import styles from './styles.module.css';
 type FeatureItem = {
   title: string;
   link: string;
-  color: string;
+  //color: string;
   description: ReactNode;
 };
 
@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Professional Work Samples',
     link: 'docs/work_samples',
-    color: 'var(--ifm-color-primary-darker)',
+    //color: 'var(--ifm-color-primary-darker)',
     description: (
       <>
         All my available work samples that aren't locked behind NDAs can be found here!
@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Resume',
     link: 'docs/resume',
-    color: 'var(--ifm-color-primary-lighter)',
+    //color: 'var(--ifm-color-primary-lighter)',
     description: (
       <>
         View and download my resume here!
@@ -42,7 +42,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Recommendations',
     link: 'docs/recommedations',
-    color: 'var(--ifm-color-primary-darker)',
+    //color: 'var(--ifm-color-primary-darker)',
     description: (
       <>
         All my professional recommedations I have received for my work!
@@ -117,9 +117,9 @@ function QuickLink({title, link, subtitle, description, image}: QuickLinkItem) {
   );
 }
 
-function Feature({title, link, color, description}: FeatureItem) {
+function Feature({title, link, description}: FeatureItem) {
   return (
-    <div className={clsx('col-home col--4')} style={{backgroundColor: color}}>
+    <div className={clsx('col-home col--4')}>
       <a href={link}>
         <div className="text--center padding-horiz--md">
           <Heading as="h3">{title}</Heading>
@@ -129,19 +129,6 @@ function Feature({title, link, color, description}: FeatureItem) {
     </div>
   );
 }
-
-// function Feature({title, description}: FeatureItem) {
-//   return (
-//     <div className={clsx('col col--4')}>
-//       <div className="text--center">
-//       </div>
-//       <div className="text--center padding-horiz--md">
-//         <Heading as="h3">{title}</Heading>
-//         <p>{description}</p>
-//       </div>
-//     </div>
-//   );
-// }
 
 export default function HomepageFeatures(): ReactNode {
   return (
