@@ -12,12 +12,9 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="profile-picture">
+      <div className="profile-picture centered">
         <img src={require('../../static/img/portrait.jpg').default} alt="Profile - Caleb Valerian"/>
       </div>
-      {/* <div className="profile-picture centered">
-        <img src={require('../../static/img/portrait.jpg').default} alt="Profile - Caleb Valerian"/>
-        </div> */}
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}

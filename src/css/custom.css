@@ -93,14 +93,12 @@ html[data-theme='dark'] .navbar--linkedin-link:before {
 }
 
 .profile-picture img {
-  position:absolute;
   height: auto;
   width: auto;    
   max-width:100%;
 }
 
 .centered img {
-  position:absolute;
   top:50%;
   transform:translateY(-50%);
 }
