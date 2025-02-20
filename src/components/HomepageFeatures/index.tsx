@@ -5,10 +5,105 @@ import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  link: string;
-  //color: string;
   description: ReactNode;
 };
+
+const FeatureList: FeatureItem[] = [
+  {
+    title: 'Easy to Use',
+    description: (
+      <>
+        Docusaurus was designed from the ground up to be easily installed and
+        used to get your website up and running quickly.
+      </>
+    ),
+  },
+  {
+    title: 'Focus on What Matters',
+    description: (
+      <>
+        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
+        ahead and move your docs into the <code>docs</code> directory.
+      </>
+    ),
+  },
+  {
+    title: 'Powered by React',
+    description: (
+      <>
+        Extend or customize your website layout by reusing React. Docusaurus can
+        be extended while reusing the same header and footer.
+      </>
+    ),
+  },
+];
+
+function Feature({title, description}: FeatureItem) {
+  return (
+    <div className={clsx('col col--4')}>
+      <div className="text--center">
+      </div>
+      <div className="text--center padding-horiz--md">
+        <Heading as="h3">{title}</Heading>
+        <p>{description}</p>
+      </div>
+    </div>
+  );
+}
+
+
+// type FeatureItem = {
+//   title: string;
+//   link: string;
+//   //color: string;
+//   description: ReactNode;
+// };
+
+// const FeatureList: FeatureItem[] = [
+//   {
+//     title: 'Professional Work Samples',
+//     link: '/docs/work_samples',
+//     //color: 'var(--ifm-color-primary-darker)',
+//     description: (
+//       <>
+//         All my available work samples can be found here!
+//       </>
+//     ),
+//   },
+//   {
+//     title: 'Resume',
+//     link: '/docs/resume',
+//     //color: 'var(--ifm-color-primary-lighter)',
+//     description: (
+//       <>
+//         View and download my resume here!
+//       </>
+//     ),
+//   },
+//   {
+//     title: 'Recommendations',
+//     link: '/docs/recommendations',
+//     //color: 'var(--ifm-color-primary-darker)',
+//     description: (
+//       <>
+//         All my professional recommendations I have received for my work!
+//       </>
+//     ),
+//   },
+// ];
+
+// function Feature({title, link, description}: FeatureItem) {
+//   return (
+//     <div className={clsx('col-home col--4')}>
+//       <a href={link}>
+//         <div className="text--center padding-horiz--md">
+//           <Heading as="h3">{title}</Heading>
+//           <p>{description}</p>
+//         </div>
+//       </a>
+//     </div>
+//   );
+// }
 
 type QuickLinkItem = {
   title: string;
@@ -17,39 +112,6 @@ type QuickLinkItem = {
   description: JSX.Element;
   image: string;
 };
-
-const FeatureList: FeatureItem[] = [
-  {
-    title: 'Professional Work Samples',
-    link: '/docs/work_samples',
-    //color: 'var(--ifm-color-primary-darker)',
-    description: (
-      <>
-        All my available work samples can be found here!
-      </>
-    ),
-  },
-  {
-    title: 'Resume',
-    link: '/docs/resume',
-    //color: 'var(--ifm-color-primary-lighter)',
-    description: (
-      <>
-        View and download my resume here!
-      </>
-    ),
-  },
-  {
-    title: 'Recommendations',
-    link: '/docs/recommendations',
-    //color: 'var(--ifm-color-primary-darker)',
-    description: (
-      <>
-        All my professional recommendations I have received for my work!
-      </>
-    ),
-  },
-];
 
 const QuickLinkList: QuickLinkItem[] = [
   // {
@@ -114,19 +176,6 @@ function QuickLink({title, link, subtitle, description, image}: QuickLinkItem) {
         </div>
       </div>
     </a>
-  );
-}
-
-function Feature({title, link, description}: FeatureItem) {
-  return (
-    <div className={clsx('col-home col--4')}>
-      <a href={link}>
-        <div className="text--center padding-horiz--md">
-          <Heading as="h3">{title}</Heading>
-          <p>{description}</p>
-        </div>
-      </a>
-    </div>
   );
 }
 
