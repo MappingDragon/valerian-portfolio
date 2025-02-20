@@ -48,6 +48,33 @@ function Feature({title, description}: FeatureItem) {
   );
 }
 
+type AboutItem = {
+  title: string;
+  description: ReactNode;
+}
+
+const AboutItemList: AboutItem[] = [
+  {
+    title: 'About Me',
+    description: (
+      <>
+      <p>I'm a technical writer and software engineer with a passion for bridging the gap between developers and documentation. With experience spanning SDK documentation, automation workflows, and developer education, I specialize in making complex technical concepts clear and accessible.</p>
+      <p>Over the years, I’ve worked with companies like Big Fish Games, Unity, Microsoft, Amazon, and Oculus, crafting user-friendly documentation, automating pipelines, and improving developer experiences. Whether I’m writing API guides, optimizing documentation workflows, or collaborating with engineers, my goal is always the same: to create content that empowers and informs.</p>
+      <p>When I’m not refining docs or coding, you’ll probably find me experimenting with new tech, diving into game development, or planning my next TTRPG game.</p>
+      <p>Let's connect and build something great together!</p>
+      </>
+    ),
+  }
+]
+
+function About({title, description}: AboutItem) {
+  return (
+    <div className="text--center padding-horiz--md">
+      <Heading as="h3">{title}</Heading>
+      <p>{description}</p>
+    </div>
+  );
+}
 
 // type FeatureItem = {
 //   title: string;
@@ -186,6 +213,24 @@ export default function HomepageFeatures(): ReactNode {
           ))}
         </div>
       </div>
+      <div className="container">
+        <div className="row">
+          {AboutItemList.map((props, idx) => (
+            <About key={idx} {...props} />
+          ))}
+        </div>
+      </div>
+      {/* <div className={styles.quicklinkSection}>
+        <div className={styles.quicklinkContainer}>
+          {QuickLinkList.map((props, idx) => (
+            <QuickLink key={idx} {...props} />
+          ))}
+        </div>
+        <div className={styles.quicklinkTitle}>
+          <Heading as="h1">Quick Links</Heading>
+          <p>No matter what you're looking for, we have the documentation you need to get you on your way.</p>
+        </div>
+      </div> */}
     </section>
   );
 }

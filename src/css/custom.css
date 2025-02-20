@@ -83,3 +83,24 @@ html[data-theme='dark'] .navbar--linkedin-link:before {
 	content: "\f08c";
   color: var(--ifm-color-primary-lightest);
 }
+
+.profile-picture {
+  position:relative;
+  overflow:hidden;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.profile-picture img {
+  position:absolute;
+  height: auto;
+  width: auto;    
+  max-width:100%;
+}
+
+.centered img {
+  position:absolute;
+  top:50%;
+  transform:translateY(-50%);
+}
