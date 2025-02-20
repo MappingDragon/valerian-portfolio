@@ -64,6 +64,16 @@ const config: Config = {
           label: 'Work Samples',
         },
         {
+          href: './docs/resume',
+          position: 'left',
+          label: 'Resume',
+        },
+        {
+          href: './docs/recommendations',
+          position: 'left',
+          label: 'Recommendations',
+        },
+        {
           href: 'https://github.com/MappingDragon/valerian-portfolio',
           position: 'right',
           className: 'navbar--github-link',

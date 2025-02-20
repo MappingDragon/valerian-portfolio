@@ -25,7 +25,7 @@ const FeatureList: FeatureItem[] = [
     //color: 'var(--ifm-color-primary-darker)',
     description: (
       <>
-        All my available work samples that aren't locked behind NDAs can be found here!
+        All my available work samples can be found here!
       </>
     ),
   },
@@ -41,11 +41,11 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Recommendations',
-    link: 'docs/recommedations',
+    link: 'docs/recommendations',
     //color: 'var(--ifm-color-primary-darker)',
     description: (
       <>
-        All my professional recommedations I have received for my work!
+        All my professional recommendations I have received for my work!
       </>
     ),
   },
