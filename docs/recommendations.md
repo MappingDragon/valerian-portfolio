@@ -5,9 +5,10 @@ Below is a complete list of all my professional accolades and recommendations.
 ---
 
 **Jenna Ingersol**
+
 __Head of Knowledge & Documentation at Big Fish Games__
 
-:::tip[They Said...]
+:::info[They Said...]
 
 Caleb is a hard-working, dedicated technical writer who continuously strives to improve and grow. In the 3 ½ years I’ve worked with them, I’ve witnessed tremendous growth—not only in their writing ability but also in the key skills that make them an exceptional professional. Caleb has taken ownership of projects, collaborated seamlessly with engineering teams, strengthened their project management abilities, and even developed confidence in public speaking.
 
@@ -18,9 +19,10 @@ Caleb brings a unique blend of attention to detail, curiosity, and adaptability.
 ---
 
 **Joy Horvath**
+
 __Senior Program Manager - Elevate at Unity Technologies__
 
-:::tip[They Said...]
+:::info[They Said...]
 
 I had the pleasure of hiring Caleb as a contract Technical Writer at Unity during the early days of Unity Learn. At the time, my team was focused on making Learn a premier learning platform, which meant we needed to rapidly expand our tutorial library. Caleb played a crucial role in helping us achieve that goal.
 
