@@ -213,7 +213,7 @@ export default function HomepageFeatures(): ReactNode {
           ))}
         </div>
       </div>
-      <div className="containerAboutMe">
+      <div className="container_about">
         <div className="row">
           {AboutItemList.map((props, idx) => (
             <About key={idx} {...props} />

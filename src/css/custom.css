@@ -85,7 +85,7 @@ html[data-theme='dark'] .navbar--linkedin-link:before {
 }
 
 .profile-picture {
-  position:relative;
+  position:absolute;
   overflow:hidden;
   border-radius: 50%;
   height: 200px;
@@ -100,5 +100,11 @@ html[data-theme='dark'] .navbar--linkedin-link:before {
 
 .centered img {
   top:50%;
-  transform:translateY(-5%);
+  transform:translateY(-9%);
+}
+
+@media only screen and (max-width: 1026px) {
+  #profile-picture {
+      display: none;
+  }
 }
