@@ -66,8 +66,8 @@ const config: Config = {
         {
           href: 'https://github.com/MappingDragon/valerian-portfolio',
           position: 'right',
-          className: "header-github-link",
-          "aria-label": "GitHub repository",
+          className: 'navbar--github-link',
+          aria-label: 'GitHub repository',
           // className: 'navbar__icon navbar__github',
           // html: '<FAIcon icon="fa-brands fa-github" size="4x" />',
         },
