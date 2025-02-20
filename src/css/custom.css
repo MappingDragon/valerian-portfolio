@@ -31,7 +31,11 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.h2 {
+h2 {
+  color: var(--ifm-color-primary);
+}
+
+.recom_name {
   color: var(--ifm-color-primary);
 }
 
