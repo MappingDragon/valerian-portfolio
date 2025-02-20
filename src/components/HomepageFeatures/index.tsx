@@ -205,34 +205,25 @@ function QuickLink({title, link, subtitle, description, image}: QuickLinkItem) {
 
 export default function HomepageFeatures(): ReactNode {
   return (
-    <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+    <div>
+      <section className={styles.features}>
+        <div className="container">
+          <div className="row">
+            {FeatureList.map((props, idx) => (
+              <Feature key={idx} {...props} />
+            ))}
+          </div>
         </div>
-      </div>
-    </section>
-    <>
-      <div className={styles.container_about}>
-        <div className="row">
-          {AboutItemList.map((props, idx) => (
-            <About key={idx} {...props} />
-          ))}
+      </section>
+      <section className={styles.container_about}>
+        <div className="container">
+          <div className="row">
+            {AboutItemList.map((props, idx) => (
+              <About key={idx} {...props} />
+            ))}
+          </div>
         </div>
-      </div>
-    </>
-    {/* <div className={styles.quicklinkSection}>
-      <div className={styles.quicklinkContainer}>
-        {QuickLinkList.map((props, idx) => (
-          <QuickLink key={idx} {...props} />
-        ))}
-      </div>
-      <div className={styles.quicklinkTitle}>
-        <Heading as="h1">Quick Links</Heading>
-        <p>No matter what you're looking for, we have the documentation you need to get you on your way.</p>
-      </div>
-    </div> */}
+      </section>
+    </div>
   );
 }
