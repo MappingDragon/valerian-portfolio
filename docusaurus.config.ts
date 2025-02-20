@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Caleb Valerian',
   tagline: 'Senior Technical Writer',
-  favicon: '/static/img/favicon.ico',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://mappingdragon.github.io/',
@@ -49,12 +49,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: '/static/img/logo.png',
+    image: 'img/logo.png',
     navbar: {
       title: 'Valerians Portfolio',
       logo: {
         alt: '',
-        src: '/static/img/logo.png',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -67,15 +67,12 @@ const config: Config = {
           href: 'https://github.com/MappingDragon/valerian-portfolio',
           position: 'right',
           className: 'navbar--github-link',
-          //aria-label: 'GitHub repository',
-          // className: 'navbar__icon navbar__github',
-          // html: '<FAIcon icon="fa-brands fa-github" size="4x" />',
+          'aria-label': 'GitHub repository',
         },
         {
           href: 'https://www.linkedin.com/in/caleb-valerian-4295025a/',
           position: 'right',
-          className: 'navbar__icon navbar__linkedin',
-          html: '<FAIcon icon="fa-brands fa-linkedin" size="4x" />',
+          className: 'navbar--linkedin-link',
         },
       ],
     },

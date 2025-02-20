@@ -5,6 +5,8 @@ import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
+  link: string;
+  color: string;
   description: ReactNode;
 };
 
@@ -17,80 +19,87 @@ type QuickLinkItem = {
 };
 
 const FeatureList: FeatureItem[] = [
-  // {
-  //   title: 'Easy to Use',
-  //   description: (
-  //     <>
-  //       Docusaurus was designed from the ground up to be easily installed and
-  //       used to get your website up and running quickly.
-  //     </>
-  //   ),
-  // },
-  // {
-  //   title: 'Focus on What Matters',
-  //   description: (
-  //     <>
-  //       Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-  //       ahead and move your docs into the <code>docs</code> directory.
-  //     </>
-  //   ),
-  // },
-  // {
-  //   title: 'Powered by React',
-  //   description: (
-  //     <>
-  //       Extend or customize your website layout by reusing React. Docusaurus can
-  //       be extended while reusing the same header and footer.
-  //     </>
-  //   ),
-  // },
+  {
+    title: 'Professional Work Samples',
+    link: 'docs/work_samples',
+    color: 'var(--ifm-color-primary-darker)',
+    description: (
+      <>
+        All my available work samples that aren't locked behind NDAs can be found here!
+      </>
+    ),
+  },
+  {
+    title: 'Resume',
+    link: 'docs/resume',
+    color: 'var(--ifm-color-primary-lighter)',
+    description: (
+      <>
+        View and download my resume here!
+      </>
+    ),
+  },
+  {
+    title: 'Recommendations',
+    link: 'docs/recommedations',
+    color: 'var(--ifm-color-primary-darker)',
+    description: (
+      <>
+        All my professional recommedations I have received for my work!
+      </>
+    ),
+  },
 ];
 
 const QuickLinkList: QuickLinkItem[] = [
   // {
-  //   title: 'Onboarding',
+  //   title: 'Professional Work Samples',
   //   link: 'docs/developer/onboarding',
-  //   subtitle: 'Get started developing games with Big Fish!',
+  //   subtitle: '',
   //   description: (
   //     <>
-  //       Recommedation 1
+  //      View all my available work samples that aren't locked behind NDAs!
   //     </>
   //   ),
   //   image: 'img/bfg-onboarding.png',
   // },
-  // {
-  //   title: 'Build & Release',
-  //   link: '/docs/developer/publishing',
-  //   subtitle: 'Add your game to our build & release pipelines!',
-  //   description: (
-  //     <>
-  //       Recommedation 2
-  //     </>
-  //   ),
-  //   image: 'img/bfg-config.png',    
-  // },
-  // {
-  //   title: 'Tools & Services',
-  //   link: '/docs/developer/tools-services',
-  //   subtitle: 'Learn about the tools & services we use at Big Fish',
-  //   description: (
-  //     <>
-  //       To ensure the best publishing experience, Big Fish leverages top-shelf solutions for a variety of live ops, authentication, messaging, and telemetry needs and more
-  //     </>
-  //   ),
-  //   image: 'img/bfg-tools.png',
-  // },
-  // {
-  //   title: 'Game Features',
-  //   link: '/docs/developer/game-features',
-  //   subtitle: 'Integrate features into your game',
-  //   description: (
-  //     <>
-  //       Are you ready to integrate and add features to your game? Find out how to enable authentication, in-app purchasing, messaging and more! 
-  //     </>
-  //   ),
-  //   image: 'img/bfg-features.png',
-  // },  
+//   {
+//     title: 'Resume',
+//     link: '/docs/developer/publishing',
+//     subtitle: 'Add your game to our build & release pipelines!',
+//     description: (
+//       <>
+//         I had the pleasure of hiring Caleb as a contract Technical Writer at Unity during the early days of Unity Learn. At the time, my team was focused on making Learn a premier learning platform, which meant we needed to rapidly expand our tutorial library. Caleb played a crucial role in helping us achieve that goal.
+
+// Their unique combination of skills—as a technical writer, Unity developer, and programmer—made them an invaluable asset. They were able to create high-quality learning content across a wide range of topics, helping us build a strong foundation for Learn’s successful launch. Beyond their expertise, Caleb is easygoing, adaptable, and always focused on delivering great content. They iterate quickly as needs evolve, making them a fantastic collaborator in a fast-moving environment.
+
+// I highly recommend Caleb to anyone looking for a skilled and versatile technical writer who understands both the technical and educational sides of content creation. They would be a tremendous addition to any team!
+//       </>
+//     ),
+//     image: 'img/bfg-config.png',    
+//   },
+//   {
+//     title: 'Tools & Services',
+//     link: '/docs/developer/tools-services',
+//     subtitle: 'Learn about the tools & services we use at Big Fish',
+//     description: (
+//       <>
+//         To ensure the best publishing experience, Big Fish leverages top-shelf solutions for a variety of live ops, authentication, messaging, and telemetry needs and more
+//       </>
+//     ),
+//     image: 'img/bfg-tools.png',
+//   },
+//   {
+//     title: 'Game Features',
+//     link: '/docs/developer/game-features',
+//     subtitle: 'Integrate features into your game',
+//     description: (
+//       <>
+//         Are you ready to integrate and add features to your game? Find out how to enable authentication, in-app purchasing, messaging and more! 
+//       </>
+//     ),
+//     image: 'img/bfg-features.png',
+//   },  
 ];
 
 function QuickLink({title, link, subtitle, description, image}: QuickLinkItem) {
@@ -108,18 +117,31 @@ function QuickLink({title, link, subtitle, description, image}: QuickLinkItem) {
   );
 }
 
-function Feature({title, description}: FeatureItem) {
+function Feature({title, link, color, description}: FeatureItem) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-      </div>
+    <div className={clsx('col-home col--4')} style={{backgroundColor: color}}>
+      <a href={link}>
+        <div className="text--center padding-horiz--md">
+          <Heading as="h3">{title}</Heading>
+          <p>{description}</p>
+        </div>
+      </a>
     </div>
   );
 }
+
+// function Feature({title, description}: FeatureItem) {
+//   return (
+//     <div className={clsx('col col--4')}>
+//       <div className="text--center">
+//       </div>
+//       <div className="text--center padding-horiz--md">
+//         <Heading as="h3">{title}</Heading>
+//         <p>{description}</p>
+//       </div>
+//     </div>
+//   );
+// }
 
 export default function HomepageFeatures(): ReactNode {
   return (
