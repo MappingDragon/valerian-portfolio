@@ -100,5 +100,5 @@ html[data-theme='dark'] .navbar--linkedin-link:before {
 
 .centered img {
   top:50%;
-  transform:translateY(-50%);
+  transform:translateY(-5%);
 }
