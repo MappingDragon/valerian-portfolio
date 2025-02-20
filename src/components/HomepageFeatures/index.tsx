@@ -21,7 +21,7 @@ type QuickLinkItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Professional Work Samples',
-    link: 'docs/work_samples',
+    link: '/docs/work_samples',
     //color: 'var(--ifm-color-primary-darker)',
     description: (
       <>
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Resume',
-    link: 'docs/resume',
+    link: '/docs/resume',
     //color: 'var(--ifm-color-primary-lighter)',
     description: (
       <>
@@ -41,7 +41,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Recommendations',
-    link: 'docs/recommendations',
+    link: '/docs/recommendations',
     //color: 'var(--ifm-color-primary-darker)',
     description: (
       <>
