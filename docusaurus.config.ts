@@ -64,12 +64,12 @@ const config: Config = {
           label: 'Work Samples',
         },
         {
-          href: './docs/resume',
+          link: 'docs/resume',
           position: 'left',
           label: 'Resume',
         },
         {
-          href: './docs/recommendations',
+          link: 'docs/recommendations',
           position: 'left',
           label: 'Recommendations',
         },
