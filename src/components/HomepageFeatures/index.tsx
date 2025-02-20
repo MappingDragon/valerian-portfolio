@@ -213,24 +213,24 @@ export default function HomepageFeatures(): ReactNode {
           ))}
         </div>
       </div>
-      <div className="container_about">
-        <div className="row">
-          {AboutItemList.map((props, idx) => (
-            <About key={idx} {...props} />
-          ))}
-        </div>
-      </div>
-      {/* <div className={styles.quicklinkSection}>
-        <div className={styles.quicklinkContainer}>
-          {QuickLinkList.map((props, idx) => (
-            <QuickLink key={idx} {...props} />
-          ))}
-        </div>
-        <div className={styles.quicklinkTitle}>
-          <Heading as="h1">Quick Links</Heading>
-          <p>No matter what you're looking for, we have the documentation you need to get you on your way.</p>
-        </div>
-      </div> */}
     </section>
+    <div className={styles.container_about}>
+      <div className="row">
+        {AboutItemList.map((props, idx) => (
+          <About key={idx} {...props} />
+        ))}
+      </div>
+    </div>
+    {/* <div className={styles.quicklinkSection}>
+      <div className={styles.quicklinkContainer}>
+        {QuickLinkList.map((props, idx) => (
+          <QuickLink key={idx} {...props} />
+        ))}
+      </div>
+      <div className={styles.quicklinkTitle}>
+        <Heading as="h1">Quick Links</Heading>
+        <p>No matter what you're looking for, we have the documentation you need to get you on your way.</p>
+      </div>
+    </div> */}
   );
 }
