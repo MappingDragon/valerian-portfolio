@@ -4,7 +4,7 @@ Below is a complete list of all my professional accolades and recommendations.
 
 ---
 
-<div class="recom_name">**Jenna Ingersol**</div> - _Head of Knowledge & Documentation at Big Fish Games_
+<span class="recom_name">**Jenna Ingersol**</span> | _Head of Knowledge & Documentation at Big Fish Games_
 
 :::info[They Said...]
 
@@ -16,7 +16,7 @@ Caleb brings a unique blend of attention to detail, curiosity, and adaptability.
 
 ---
 
-<div class="recom_name">**Joy Horvath**</div> - _Senior Program Manager - Elevate at Unity Technologies_
+<span class="recom_name">**Joy Horvath**</span> | _Senior Program Manager - Elevate at Unity Technologies_
 
 :::info[They Said...]
 

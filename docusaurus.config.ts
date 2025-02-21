@@ -67,6 +67,7 @@ const config: Config = {
       },
       items: [
         {
+          to: 'docs/work_samples'
           type: 'docSidebar',
           sidebarId: 'portfolioSidebar',
           position: 'left',
