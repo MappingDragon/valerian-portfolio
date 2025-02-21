@@ -26,10 +26,16 @@ For approved work samples from Unity Technologies, please click any of the links
 
 :::info[Please note]
 
-The provided work samples are approved subsections of the larger documentation.
+The provided work samples are approved subsections of the larger documentation. But all full works can be found published for free on Unity Learn!
 
 :::
 
+**Sample Raw Documentation**
 - [Object Pooling](../../static/samples/unity_learn_01.pdf) - Tutorial in creating object pooling within Unity 3D.
 - [Profiler Window](../../static/samples/unity_learn_02.pdf) - Explanation of Unity 3D's profiling window and how to use it.
 - [Introduction to LWRP](../../static/samples/unity_learn_03.pdf) - An introduction to the Lightweight Rendering Pipeline.
+
+**Sample Published Unity Learn Tutorials**
+- [Introduction to Object Pooling](https://learn.unity.com/tutorial/introduction-to-object-pooling)
+- [The PiXYZ Studio Interface](https://learn.unity.com/tutorial/the-pixyz-studio-interface)
+- [Setting up Bounced Indirect Lighting in HDRP](https://learn.unity.com/tutorial/setting-up-bounced-indirect-lighting-in-hdrp#)
