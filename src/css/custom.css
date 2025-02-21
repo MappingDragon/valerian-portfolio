@@ -188,39 +188,27 @@ div.desc {
   text-align: center;
 }
 
-/* Homepage Tab */
-
-.front-tab {
-  width: 100%;
-  border: 1px solid var(--ifm-color-primary); 
-  filter: drop-shadow(0px 7px 8px #000000);
-}
-
-html[data-theme='dark'] .front-tab {
-  border-bottom: 1px solid white;
-}
-
-.front-tab-span {
-  position:absolute;
-  width:100%;
-  height:100%;
-  left:0;
-  top:0;
-  z-index:1;
-}
+/* Homepage Settings */
 
 .card {
-  /* Add shadows to create the "card" effect */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
 }
 
-/* On mouse-over, add a deeper shadow */
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
-/* Add some padding inside the card container */
 .container {
   padding: 2px 16px;
+  height: 200px;
+}
+
+.container h3 {
+  padding-top: 10%;
+  text-decoration: none;
+}
+
+.container p {
+  text-decoration: none;
 }
