@@ -140,3 +140,7 @@ html[data-theme='dark'] .profile-picture {
   float: right;
   margin: 10px;
 }
+
+.wrap img {
+  width: 500px;
+}

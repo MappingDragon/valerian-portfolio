@@ -2,7 +2,8 @@
 
 :::info[References & Resume]
 
-![Click to download my resume!](../static/files/caleb_valerian_resume.pdf)
+[Click to download my resume!](../static/files/caleb_valerian_resume.pdf)
+
 Professional references can be provided upon request.
 
 :::
@@ -12,20 +13,20 @@ SILVERDALE, WA 98383 | (425) 463-9237 | [**valeriancaleb@gmail.com**](mailto:val
 
 Experienced **Senior Technical Writer** and software engineer with a passion for bridging the gap between developers and documentation. Expertise in automating documentation workflows, improving efficiency, and enhancing the developer experience through well-structured, user-centric documentation. Proven ability to translate complex technical concepts into clear, concise content for a wide range of audiences.
 
-#### Technical Skills
+### Technical Skills
 
 - **Languages**: Python, C#, JavaScript, HTML, CSS, Markdown, XML, Powershell
 - **Tools & Platforms**: Doxygen, DocFX, Docusaurus, Git, Photoshop, Illustrator, Perforce, LLM, RAG
 - **Documentation Expertise**: SDK & API documentation, automation pipelines, version control, content strategy
 
-#### Soft Skills
+### Soft Skills
 
 - Strong interpersonal & collaboration skills
 - Ability to translate complex technical concepts into clear, user-friendly documentation
 - Process optimization and workflow efficiency
 - Visual communication & graphical representation of ideas
 
-#### Experience
+### Experience
 
 **Big Fish Games** — _Senior Technical Writer_
 NOV 2021 - PRESENT
@@ -99,11 +100,11 @@ MAR 2017 - MAY 2018
 - Created **new workflows and documentation** for improved asset production.
 - Improved **3D modeling and UV wrapping processes** to enhance asset quality.
 
-#### Additional Experience
+### Additional Experience
 
 Former **Tools Programmer** at Minecraft - Microsoft, **Software Engineer** at Panther Systems, and **Software Test Engineer** at Intel.
 
-#### Education
+### Education
 
 **The Art Institute of Portland,** B.S. in Computer Science, Sep 2015
 **Portland Community College,** A.S in  Science, Jun 2011
