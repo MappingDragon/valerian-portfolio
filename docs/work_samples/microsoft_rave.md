@@ -10,6 +10,8 @@ C#, JSON, GitHub, Amplify
 
 :::
 
+## Summary
+
 <span class="wrap">![Amplify Reporting Tool](../../static/samples/amplify_reporting_pic.png)</span>
 
 At Microsoft, I was part of a small team responsible for supporting documentation efforts for RAVE, a customer support tool. My primary focus was creating clear, user-friendly documentation to guide both new and existing users while also streamlining processes for documentation reporting, logging, and user engagement.
