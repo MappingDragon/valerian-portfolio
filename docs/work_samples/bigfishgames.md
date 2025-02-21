@@ -30,12 +30,12 @@ The provided work samples are approved subsections of the larger documentation.
 
 :::
 
-- [Add OneLink to Associated Domains](../../static/samples/BFG_WorkSample_01.pdf) - Sample documentation for developers using BFG SDKs.
-- [Add the policy listener to your game](../../static/samples/BFG_WorkSample_02.pdf) - Sample documentation of adding a policy listener to developers games.
-- [SonarQube Code Analysis](../../static/samples/BFG_WorkSample_03.pdf) - Sample of a guide in explaining what SonarQube is and how to use it.
+- [Add OneLink to Associated Domains](../../static/samples/BFG_WorkSample_01.png) - Sample documentation for developers using BFG SDKs.
+- [Add the policy listener to your game](../../static/samples/BFG_WorkSample_02.png) - Sample documentation of adding a policy listener to developers games.
+- [SonarQube Code Analysis](../../static/samples/BFG_WorkSample_03.png) - Sample of a guide in explaining what SonarQube is and how to use it.
 
 :::tip[Skills used...]
 
-Markdown, HTML, CSS, REACT, JavaScript, C#, JSON, Google Cloud, GitHub, Confluence, Docusaurus, Doxygen
+Markdown, HTML, CSS, REACT, JavaScript, C#, JSON, Google Cloud, GitHub, Confluence, Docusaurus, Doxygen, Powershell
 
 :::

@@ -2,7 +2,7 @@
 
 :::info[References & Resume]
 
-[Click to download my resume!](/static/files/caleb_valerian_resume.pdf)
+![Click to download my resume!](../static/files/caleb_valerian_resume.pdf)
 Professional references can be provided upon request.
 
 :::
