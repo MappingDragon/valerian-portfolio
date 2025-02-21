@@ -45,7 +45,7 @@ function Feature({title, link, description}: FeatureItem) {
       <div className="card">
         <a href={link}>
           {/* <span className="front-tab-span"> */}
-            <div className="text--center padding-horiz--md front-tabs container">
+            <div className="text--center padding-horiz--md front-tabs card_container">
               <Heading as="h3">{title}</Heading>
               <p>{description}</p>
             </div>

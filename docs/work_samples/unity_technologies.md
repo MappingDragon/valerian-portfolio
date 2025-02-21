@@ -26,30 +26,45 @@ Working closely with engineers, designers, and educators, I ensured that Unityâ€
 
 All my work can be found on the Unity Learn platform for free! Here is a non-exhaustive list of some of the work I contributed to Unity:
 
-Workshops:
-
- - Slot Machine Art and Engineering in Unity
- - Unity Animation Studios
- - Digital Design Group
- - Intro to Automotive Design & Visualization
- - Intro to Storytelling
- - Migrating to 2018.2
- - Special Subjects in Unity
- - Product Madness
-
-Video Courses (Sample List):
-
-- Creating UI Elements & Layouts (Buttons, Worldspace UI, Overlays)
-- Working with TextMesh Pro
-- Static & Dynamic Canvas Techniques
-
-Technical Documentation & Workflows (Partial List):
-
-- 2D & Sprite Tools: Tilemap, Sprite Editor, Layer Editor, Sprite Masks
-- Rendering & Lighting: HDRP/LWRP, Post Processing, Lightmaps, Shadergraph Basics
-- Optimization & Debugging: Profiler, Stats Window, Frame Debugger, Gameplay Optimization
-- Timeline & Animation: Cinemachine, Activation Tracks, Keyframed Animation
-- 3D Asset Workflows: Retopology, LODs, Baking Maps in 3ds Max
+<table>
+    <tbody>
+        <tr>
+            <td><b><center>Workshops</center></b></td>
+            <td><b><center>Video Courses</center></b></td>
+            <td><b><center>Tech Docs & Workflows</center></b></td>
+        </tr>
+        <tr>
+            <td>
+                <ul class="work_list">
+                <li>Slot Machine Art and Engineering in Unity</li>
+                <li>Unity Animation Studios</li>
+                <li>Digital Design Group</li>
+                <li>Intro to Automotive Design & Visualization</li>
+                <li>Intro to Storytelling</li>
+                <li>Migrating to 2018.2</li>
+                <li>Special Subjects in Unity</li>
+                <li>Product Madness</li>
+                </ul>
+            </td>
+            <td>
+                <ul class="work_list">
+                <li>Creating UI Elements & Layouts (Buttons, Worldspace UI, Overlays)</li>
+                <li>Working with TextMesh Pro</li>
+                <li>Static & Dynamic Canvas Techniques</li>
+                </ul>
+            </td>
+            <td>
+                <ul class="work_list">
+                <li>2D & Sprite Tools: Tilemap, Sprite Editor, Layer Editor, Sprite Masks</li>
+                <li>Rendering & Lighting: HDRP/LWRP, Post Processing, Lightmaps, Shadergraph Basics</li>
+                <li>Optimization & Debugging: Profiler, Stats Window, Frame Debugger, Gameplay Optimization</li>
+                <li>Timeline & Animation: Cinemachine, Activation Tracks, Keyframed Animation</li>
+                <li>3D Asset Workflows: Retopology, LODs, Baking Maps in 3ds Max</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ...And much more!
 
