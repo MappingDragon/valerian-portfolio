@@ -153,6 +153,10 @@ html[data-theme='dark'] .profile-picture {
   width: 500px;
 }
 
+.sample-img {
+  width: 500px;
+}
+
 .front-tab {
   width: 100%;
   border: 1px solid var(--ifm-color-primary); 

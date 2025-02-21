@@ -20,6 +20,6 @@ I redesigned the internal wiki using Amazon’s proprietary tools, leveraging CS
 - A 754% increase in critical page views, with unique visits rising from 28 to over 239.
 - A 53% reduction in traffic to the outdated wiki, accelerating to a 90% decrease within an additional week.
 
-<span class="wrap">![Wiki Restructure](../../static/samples/amazon_fma.png)</span>
-
 To ensure long-term sustainability, I established a structured documentation pipeline, implemented internal branding improvements, and developed a roadmap for engineering and science teams to maintain future content. I also conducted instructional workshops on effective documentation practices and provided offboarding support to facilitate a smooth transition.
+
+<span class="sample-img">![Wiki Restructure](../../static/samples/amazon_fma.png)</span>
