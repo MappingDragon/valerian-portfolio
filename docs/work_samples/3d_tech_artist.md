@@ -24,18 +24,12 @@ To achieve this, I utilized a combination of tools:
 
 This project was a fantastic experience that strengthened my skills in PBR workflows, material authoring, and game asset integration.
 
-<div class="responsive">
-<div class="gallery"><a target="_blank" href="../../static/samples_art/evolve_01.png">![Evolve Asset](../../static/samples_art/evolve_01.png)</a></div></div>
-<div class="responsive">
-<div class="gallery"><a target="_blank" href="../../static/samples_art/evolve_02.png">![Evolve Asset](../../static/samples_art/evolve_02.png)</a></div></div>
-<div class="responsive">
-<div class="gallery"><a target="_blank" href="../../static/samples_art/evolve_03.png">![Evolve Asset](../../static/samples_art/evolve_03.png)</a></div></div>
-<div class="responsive">
-<div class="gallery"><a target="_blank" href="../../static/samples_art/evolve_04.png">![Evolve Asset](../../static/samples_art/evolve_04.png)</a></div></div>
-<div class="responsive">
-<div class="gallery"><a target="_blank" href="../../static/samples_art/evolve_05.png">![Evolve Asset](../../static/samples_art/evolve_05.png)</a></div></div>
-<div class="responsive">
-<div class="gallery"><a target="_blank" href="../../static/samples_art/evolve_06.png">![Evolve Asset](../../static/samples_art/evolve_06.png)</a></div></div>
+<div class="responsive"><div class="gallery"><a target="_blank" href="../../static/samples_art/evolve_01.png">![Evolve Asset](../../static/samples_art/evolve_01.png)</a></div></div>
+<div class="responsive"><div class="gallery"><a target="_blank" href="../../static/samples_art/evolve_02.png">![Evolve Asset](../../static/samples_art/evolve_02.png)</a></div></div>
+<div class="responsive"><div class="gallery"><a target="_blank" href="../../static/samples_art/evolve_03.png">![Evolve Asset](../../static/samples_art/evolve_03.png)</a></div></div>
+<div class="responsive"><div class="gallery"><a target="_blank" href="../../static/samples_art/evolve_04.png">![Evolve Asset](../../static/samples_art/evolve_04.png)</a></div></div>
+<div class="responsive"><div class="gallery"><a target="_blank" href="../../static/samples_art/evolve_05.png">![Evolve Asset](../../static/samples_art/evolve_05.png)</a></div></div>
+<div class="responsive"><div class="gallery"><a target="_blank" href="../../static/samples_art/evolve_06.png">![Evolve Asset](../../static/samples_art/evolve_06.png)</a></div></div>
 
 ---
 
