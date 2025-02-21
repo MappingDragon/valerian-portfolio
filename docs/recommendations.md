@@ -16,6 +16,16 @@ Caleb brings a unique blend of attention to detail, curiosity, and adaptability.
 
 ---
 
+<span class="recom_name">**[Rachel DiPaola](https://www.linkedin.com/in/racheldipaola)**</span> <FAIcon icon="fa-brands fa-linkedin" size="1x" /> | _Chief of Staff & Senior Director, Transformation at Big Fish Games_
+
+:::info[They Said...]
+
+Caleb is an exceptional senior technical writer at Big Fish Games, combining deep technical expertise with a talent for clear, engaging documentation. His ability to distill complex information into user-friendly content has been invaluable in enhancing both internal and external partner-facing materials. Caleb’s keen eye for detail, strong collaboration skills, and commitment to delivering high-quality work make him a standout in his field. He is not only a skilled writer but also a creative problem-solver who elevates every project he touches. Any team would be lucky to have him!
+
+:::
+
+---
+
 <span class="recom_name">**[Joy Horvath](https://www.linkedin.com/in/joyhorvath)**</span> <FAIcon icon="fa-brands fa-linkedin" size="1x" /> | _Senior Program Manager - Elevate at Unity Technologies_
 
 :::info[They Said...]
