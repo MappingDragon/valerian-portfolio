@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Big Fish Games
 
+:::tip[Skills used...]
+
+Markdown, HTML, CSS, REACT, JavaScript, C#, JSON, Google Cloud, GitHub, Confluence, Docusaurus, Doxygen, Powershell
+
+:::
+
 At Big Fish Games, I led the creation and management of SDK documentation, ensuring a seamless experience for developers integrating company tools. I developed installation guides, API references, and onboarding materials, making complex systems more accessible.
 
 One of my key achievements was designing and implementing a Doxygen to Docusaurus automated pipeline, which streamlined SDK documentation generation and reduced manual formatting efforts by 40%. I also managed version-controlled documentation repositories (Git), ensuring content remained up-to-date with SDK releases.
@@ -23,20 +29,10 @@ Beyond just conversion, I automated the entire documentation generation process 
 
 ---
 
-For approved work samples from Unity Technologies, please click any of the links below:
+## Additional Work Samples
 
-:::info[Please note]
-
-The provided work samples are approved subsections of the larger documentation.
-
-:::
+For approved work samples from Big Fish Games, please click any of the links below:
 
 - [Add OneLink to Associated Domains](../../static/samples/BFG_WorkSample_01.png) - Sample documentation for developers using BFG SDKs.
 - [Add the policy listener to your game](../../static/samples/BFG_WorkSample_02.png) - Sample documentation of adding a policy listener to developers games.
 - [SonarQube Code Analysis](../../static/samples/BFG_WorkSample_03.png) - Sample of a guide in explaining what SonarQube is and how to use it.
-
-:::tip[Skills used...]
-
-Markdown, HTML, CSS, REACT, JavaScript, C#, JSON, Google Cloud, GitHub, Confluence, Docusaurus, Doxygen, Powershell
-
-:::

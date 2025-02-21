@@ -4,6 +4,12 @@ sidebar_position: 5
 
 # Amazon FMA
 
+:::tip[Skills used...]
+
+XWiki, Markdown, HTML, CSS
+
+:::
+
 <span class="wrap">![Wiki Restructure](../../static/samples/amazon_fma_wiki.png)</span>
 
 During my contract with Amazon’s FMA team, I led a complete overhaul of their internal wiki and documentation to improve usability for all teams relying on the FMA algorithm. Prior to my involvement, information was primarily shared through tribal knowledge, scattered links, and outdated documentation copies, making it difficult to maintain a reliable source of truth and distribute updates effectively.
@@ -17,11 +23,3 @@ I redesigned the internal wiki using Amazon’s proprietary tools, leveraging CS
 <span class="wrap">![Wiki Restructure](../../static/samples/amazon_fma.png)</span>
 
 To ensure long-term sustainability, I established a structured documentation pipeline, implemented internal branding improvements, and developed a roadmap for engineering and science teams to maintain future content. I also conducted instructional workshops on effective documentation practices and provided offboarding support to facilitate a smooth transition.
-
----
-
-:::tip[Skills used...]
-
-XWiki, Markdown, HTML, CSS
-
-:::

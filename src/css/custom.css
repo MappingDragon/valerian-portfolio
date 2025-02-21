@@ -152,3 +152,28 @@ html[data-theme='dark'] .profile-picture {
 .wrap img {
   width: 500px;
 }
+
+section .col-home {
+  height: 300px;
+  --ifm-col-width: 100%;
+  flex: 1 0;
+  margin-left: 0;
+  max-width: var(--ifm-col-width);
+}
+
+section .col-home:hover {
+  filter: brightness(0.95);
+}
+
+section .col-home a {
+  color: white;
+  text-decoration: none;
+}
+
+section .col-home h3 {
+  font-size: 2rem;
+}
+
+section .text--center {
+  transform: translateY(100%)
+}

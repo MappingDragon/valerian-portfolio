@@ -60,7 +60,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/logo.png',
     navbar: {
-      title: 'Valerians Portfolio',
+      title: 'Valerian\'s Portfolio',
       logo: {
         alt: '',
         src: 'img/logo.png',

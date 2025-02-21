@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Work Samples',
-    link: 'docs/work_samples',
+    link: 'docs/work_samples/bigfishgames',
     description: (
       <>
         All examples of my professional work that I have done.
@@ -30,7 +30,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Recommendations',
-    link: 'docs/resume',
+    link: 'docs/recommendations',
     description: (
       <>
         All my recommendations I've received from my managers and colleagues.
@@ -43,8 +43,6 @@ function Feature({title, link, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <a href={link}>
-        <div className="text--center">
-        </div>
         <div className="text--center padding-horiz--md">
           <Heading as="h3">{title}</Heading>
           <p>{description}</p>
