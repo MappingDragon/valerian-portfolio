@@ -92,9 +92,8 @@ const config: Config = {
         {
           href: 'https://www.linkedin.com/in/caleb-valerian/',
           position: 'right',
-          label: '<FAIcon icon="fa-brands fa-linkedin" size="2x" />',
-          // className: 'navbar--linkedin-link',
-          // 'arial-label': 'LinkedIn Profile',
+          className: 'navbar--linkedin-link',
+          'arial-label': 'LinkedIn Profile',
         },
       ],
     },
