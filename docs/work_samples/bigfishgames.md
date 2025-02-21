@@ -10,6 +10,8 @@ Markdown, HTML, CSS, REACT, JavaScript, C#, JSON, Google Cloud, GitHub, Confluen
 
 :::
 
+## Summary
+
 At Big Fish Games, I led the creation and management of SDK documentation, ensuring a seamless experience for developers integrating company tools. I developed installation guides, API references, and onboarding materials, making complex systems more accessible.
 
 One of my key achievements was designing and implementing a Doxygen to Docusaurus automated pipeline, which streamlined SDK documentation generation and reduced manual formatting efforts by 40%. I also managed version-controlled documentation repositories (Git), ensuring content remained up-to-date with SDK releases.
@@ -18,7 +20,6 @@ Working closely with engineers, product managers, and stakeholders, I maintained
 
 ## Doxygen to Docusaurus Pipeline
 
-<!-- <span class="wrap">![Doxygen to Docusaurus](../../static/samples/BFG_WorkSample_05.png)</span> -->
 <span class="wrap">![Sample SDK Reference](../../static/samples/BFG_WorkSample_03.png)</span>
 
 When transitioning from Confluence to Docusaurus for documentation presentation, the team faced a major challenge: Doxygen has no native support for generating SDK documentation in Markdown. Since we needed to generate SDK references for Unity, Android, and iOS SDKs, finding a workaround was critical.

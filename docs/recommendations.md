@@ -4,7 +4,7 @@ Below is a complete list of all my professional accolades and recommendations.
 
 ---
 
-<span class="recom_name">**[Jenna Ingersol](https://www.linkedin.com/in/jenna-ingersoll)**</span> <FAIcon icon="fa-brands fa-linkedin" size="1x" /> | _Head of Knowledge & Documentation at Big Fish Games_
+<span class="recom_name">**[Jenna Ingersoll](https://www.linkedin.com/in/jenna-ingersoll)**</span> <FAIcon icon="fa-brands fa-linkedin" size="1x" /> | _Head of Knowledge & Documentation at Big Fish Games_
 
 :::info[They Said...]
 

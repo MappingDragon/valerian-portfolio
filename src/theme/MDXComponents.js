@@ -13,3 +13,6 @@ export default {
   ...MDXComponents,
   FAIcon: FontAwesomeIcon, // Make the FontAwesomeIcon component available in MDX as <icon />.
 };
+
+// Gallery Slide Show
+

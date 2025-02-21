@@ -10,6 +10,8 @@ Unity 3D, C#, Adobe After Effects, Adobe Premiere, OBS
 
 :::
 
+## Summary
+
 At Unity, I played a key role in developing comprehensive documentation and learning materials for the [Unity Learn](https://learn.unity.com/) platform, helping developers effectively use the Unity engine. I authored 231 guides covering both emerging and existing Unity3D features, created 32 video tutorials for certification courses, and contributed to maintaining and updating existing documentation.
 
 Leveraging my experience as a Unity 3D developer, programmer, and technical writer, I became a critical asset to the team, ensuring that instructional content was both technically accurate and easy to understand. In addition to authoring and managing documentation, I helped streamline documentation workflows, designing a new template that reduced review loops and writing C# gameplay scripts to supplement step-by-step guides.
@@ -20,9 +22,40 @@ Working closely with engineers, designers, and educators, I ensured that Unityâ€
 
 ---
 
-## Additional Work Samples
+## List of Guides & Tutorials
 
-For approved work samples from Unity Technologies, please click any of the links below:
+All my work can be found on the Unity Learn platform for free! Here is a non-exhaustive list of some of the work I contributed to Unity:
+
+Workshops:
+
+ - Slot Machine Art and Engineering in Unity
+ - Unity Animation Studios
+ - Digital Design Group
+ - Intro to Automotive Design & Visualization
+ - Intro to Storytelling
+ - Migrating to 2018.2
+ - Special Subjects in Unity
+ - Product Madness
+
+Video Courses (Sample List):
+
+- Creating UI Elements & Layouts (Buttons, Worldspace UI, Overlays)
+- Working with TextMesh Pro
+- Static & Dynamic Canvas Techniques
+
+Technical Documentation & Workflows (Partial List):
+
+- 2D & Sprite Tools: Tilemap, Sprite Editor, Layer Editor, Sprite Masks
+- Rendering & Lighting: HDRP/LWRP, Post Processing, Lightmaps, Shadergraph Basics
+- Optimization & Debugging: Profiler, Stats Window, Frame Debugger, Gameplay Optimization
+- Timeline & Animation: Cinemachine, Activation Tracks, Keyframed Animation
+- 3D Asset Workflows: Retopology, LODs, Baking Maps in 3ds Max
+
+...And much more!
+
+---
+
+## Additional Work Samples
 
 :::info[Please note]
 

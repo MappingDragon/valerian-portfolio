@@ -90,10 +90,11 @@ const config: Config = {
           'aria-label': 'GitHub repository',
         },
         {
-          href: 'https://www.linkedin.com/in/caleb-valerian-4295025a/',
+          href: 'https://www.linkedin.com/in/caleb-valerian/',
           position: 'right',
-          className: 'navbar--linkedin-link',
-          'arial-label': 'LinkedIn Profile',
+          label: '<FAIcon icon="fa-brands fa-linkedin" size="2x" />',
+          // className: 'navbar--linkedin-link',
+          // 'arial-label': 'LinkedIn Profile',
         },
       ],
     },
@@ -102,14 +103,14 @@ const config: Config = {
       links: [
         {
           label: 'LinkedIn',
-          href: 'https://www.linkedin.com/in/caleb-valerian-4295025a/',
+          href: 'https://www.linkedin.com/in/caleb-valerian/',
         },
         {
           label: 'GitHub',
           href: 'https://github.com/MappingDragon/',
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()}. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

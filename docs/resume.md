@@ -1,15 +1,16 @@
+---
+sidebar_position: 3
+---
+
 # Resume
 
-:::info[References & Resume]
+<FAIcon icon="fa-solid fa-file-pdf" size="2x" /> [Download as PDF](../static/files/caleb_valerian_resume.pdf) | 
 
-[Click to download my resume!](../static/files/caleb_valerian_resume.pdf)
-
-Professional references can be provided upon request.
-
-:::
+_Professional references available upon request_
 
 ## Caleb Valerian                                   
-SILVERDALE, WA 98383 | (425) 463-9237 | [**valeriancaleb@gmail.com**](mailto:valeriancaleb@gmail.com)
+SILVERDALE, WA 98383 | (425) 463-9237
+[**valeriancaleb@gmail.com**](mailto:valeriancaleb@gmail.com) | <FAIcon icon="fa-brands fa-linkedin" size="2x" /> [LinkedIn Profile](https://www.linkedin.com/in/caleb-valerian/)
 
 Experienced **Senior Technical Writer** and software engineer with a passion for bridging the gap between developers and documentation. Expertise in automating documentation workflows, improving efficiency, and enhancing the developer experience through well-structured, user-centric documentation. Proven ability to translate complex technical concepts into clear, concise content for a wide range of audiences.
 
@@ -102,7 +103,7 @@ MAR 2017 - MAY 2018
 
 ### Additional Experience
 
-Former **Tools Programmer** at Minecraft - Microsoft, **Software Engineer** at Panther Systems, and **Software Test Engineer** at Intel.
+Former **Software Engineer** at Panther Systems and **Software Test Engineer** at Intel. 
 
 ### Education
 
