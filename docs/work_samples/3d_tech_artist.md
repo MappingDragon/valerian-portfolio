@@ -42,5 +42,3 @@ My workflow primarily involved Photoshop and Mudbox. I started by painting masks
 The skins were designed using a mask-based system, allowing players to customize colors for each skin dynamically, creating a more personalized multiplayer experience.
 
 Being part of the Halo 5: Guardians development process was an incredible experience. Seeing the skins come to life in-game and knowing players could customize them made it all the more rewarding!
-
-<img className="workSlide">
