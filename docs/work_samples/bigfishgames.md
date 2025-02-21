@@ -12,15 +12,16 @@ Working closely with engineers, product managers, and stakeholders, I maintained
 
 ## Doxygen to Docusaurus Pipeline
 
-When transitioning from Confluence to Docusaurus for documentation presentation, the team faced a major challenge: Doxygen has no native support for generating SDK documentation in Markdown. Since we needed to generate SDK references for Unity, Android, and iOS SDKs, finding a workaround was critical.
+<!-- <span class="wrap">![Doxygen to Docusaurus](../../static/samples/BFG_WorkSample_05.png)</span> -->
+<span class="wrap">![Sample SDK Reference](../../static/samples/BFG_WorkSample_03.png)</span>
 
-<span class="wrap">![Doxygen to Docusaurus](../../static/samples/BFG_WorkSample_05.png)</span>
+When transitioning from Confluence to Docusaurus for documentation presentation, the team faced a major challenge: Doxygen has no native support for generating SDK documentation in Markdown. Since we needed to generate SDK references for Unity, Android, and iOS SDKs, finding a workaround was critical.
 
 Shifting to a different documentation tool wasn’t an option, so I took the lead in developing a custom pipeline that processed Doxygen’s HTML output, stripping unnecessary generative tags, replacing viable HTML tags with Markdown equivalents, and fixing broken hyperlinks caused by the format change.
 
 Beyond just conversion, I automated the entire documentation generation process for new SDK releases, ensuring each update seamlessly passed through the pipeline to produce Markdown files for GitHub and Docusaurus hosting. This effort maximized Docusaurus' capabilities, giving us greater control over the presentation and organization of our SDK references.
 
-<span class="wrap">![Sample SDK Reference](../../static/samples/BFG_WorkSample_03.png)</span>
+---
 
 For approved work samples from Unity Technologies, please click any of the links below:
 

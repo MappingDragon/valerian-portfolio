@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Unity Technologies
 
-At Unity, I played a key role in developing comprehensive documentation and learning materials for the Unity Learn platform, helping developers effectively use the Unity engine. I authored 231 guides covering both emerging and existing Unity3D features, created 32 video tutorials for certification courses, and contributed to maintaining and updating existing documentation.
-
 <span class="wrap">![Example Tutorial](../../static/samples/unity_learn_04.png)</span>
+
+At Unity, I played a key role in developing comprehensive documentation and learning materials for the Unity Learn platform, helping developers effectively use the Unity engine. I authored 231 guides covering both emerging and existing Unity3D features, created 32 video tutorials for certification courses, and contributed to maintaining and updating existing documentation.
 
 Leveraging my experience as a Unity 3D developer, programmer, and technical writer, I became a critical asset to the team, ensuring that instructional content was both technically accurate and easy to understand. In addition to authoring and managing documentation, I helped streamline documentation workflows, designing a new template that reduced review loops and writing C# gameplay scripts to supplement step-by-step guides.
 
