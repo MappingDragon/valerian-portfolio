@@ -7,8 +7,8 @@ sidebar_position: 3
 <FAIcon icon="fa-solid fa-file-pdf" size="1.5x" /> [Download as PDF](../static/files/caleb_valerian_resume.pdf) | Professional references available upon request.
 
 ## Caleb Valerian                                   
-SILVERDALE, WA 98383 | (425) 463-9237
-[**valeriancaleb@gmail.com**](mailto:valeriancaleb@gmail.com) | <FAIcon icon="fa-brands fa-linkedin" size="1x" /> [LinkedIn Profile](https://www.linkedin.com/in/caleb-valerian/)
+SILVERDALE, WA 98383 | (425) 463-9237 <br />
+[valeriancaleb@gmail.com](mailto:valeriancaleb@gmail.com) | <FAIcon icon="fa-brands fa-linkedin" size="1x" /> [LinkedIn Profile](https://www.linkedin.com/in/caleb-valerian/)
 
 Experienced **Senior Technical Writer** and software engineer with a passion for bridging the gap between developers and documentation. Expertise in automating documentation workflows, improving efficiency, and enhancing the developer experience through well-structured, user-centric documentation. Proven ability to translate complex technical concepts into clear, concise content for a wide range of audiences.
 

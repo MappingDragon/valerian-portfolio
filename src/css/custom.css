@@ -63,6 +63,11 @@ table td {
   vertical-align: top;
 }
 
+.aboutme_div {
+  width: 85%;
+  margin: auto;
+}
+
 /* Navbar Icons */
 
 .navbar--github-link {
@@ -228,7 +233,7 @@ div.gallery img {
 
 .card_container {
   padding: 2px 16px;
-  height: 200px;
+  height: 160px;
 }
 
 .card_container h3 {
