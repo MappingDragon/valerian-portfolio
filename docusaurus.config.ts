@@ -1,15 +1,6 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-// import { ReactDOM } from 'react-dom';
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-// import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
-// import { faGithub } from '@fortawesome/free-brands-svg-icons';
-// import { faBook } from '@fortawesome/free-solid-svg-icons';
-// import { faAward } from '@fortawesome/free-solid-svg-icons';
-// import { faFile } from '@fortawesome/free-solid-svg-icons/faFile';
-
-// const element = <FontAwesomeIcon icon={faLinkedinIn} />
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -84,16 +75,17 @@ const config: Config = {
           label: 'Recommendations',
         },
         {
+          href: 'https://www.linkedin.com/in/caleb-valerian/',
+          position: 'right',
+          label: 'LinkedIn',
+          // className: 'navbar--linkedin-link',
+          // 'arial-label': 'LinkedIn Profile',
+        },
+        {
           href: 'https://github.com/MappingDragon/valerian-portfolio',
           position: 'right',
           className: 'navbar--github-link',
           'aria-label': 'GitHub repository',
-        },
-        {
-          href: 'https://www.linkedin.com/in/caleb-valerian/',
-          position: 'right',
-          className: 'navbar--linkedin-link',
-          'arial-label': 'LinkedIn Profile',
         },
       ],
     },

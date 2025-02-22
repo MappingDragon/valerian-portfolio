@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Recommendations
 
 Below is a complete list of all my professional accolades and recommendations.
