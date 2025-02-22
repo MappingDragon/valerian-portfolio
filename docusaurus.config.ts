@@ -77,9 +77,9 @@ const config: Config = {
         {
           href: 'https://www.linkedin.com/in/caleb-valerian/',
           position: 'right',
-          label: 'LinkedIn',
-          // className: 'navbar--linkedin-link',
-          // 'arial-label': 'LinkedIn Profile',
+          // label: 'LinkedIn',
+          className: 'navbar--linkedin-link',
+          'arial-label': 'LinkedIn Profile',
         },
         {
           href: 'https://github.com/MappingDragon/valerian-portfolio',
