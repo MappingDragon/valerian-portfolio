@@ -103,7 +103,17 @@ table td {
 	height: 100%;
 	display: block;
   background-color: var(--ifm-navbar-link-color);
+
+  width: 50%;
+  height: 50%;
+  -webkit-mask-image: url("../../static/img/linkedin.svg");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: cover;
+
   mask-image: url("../../static/img/linkedin.svg");
+  mask-repeat: no-repeat;
+  mask-size: cover;
+
   transition: background-color var(--ifm-transition-fast)
     var(--ifm-transition-timing-default);
 }
@@ -160,13 +170,13 @@ html[data-theme='dark'] .profile-picture {
 
 div.gallery {
   margin: 5px;
-  border: 1px solid var(--ifm-color-primary-light);
+  /* border: 1px solid var(--ifm-color-primary-light); */
   float: left;
   width: 180px;
 }
 
 div.gallery:hover {
-  border: 1px solid var(--ifm-color-primary-light);
+  /* border: 1px solid var(--ifm-color-primary-light); */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
