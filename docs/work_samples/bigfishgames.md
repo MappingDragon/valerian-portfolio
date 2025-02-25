@@ -20,7 +20,7 @@ Working closely with engineers, product managers, and stakeholders, I maintained
 
 ## Doxygen to Docusaurus Pipeline
 
-<span class="wrap">![Sample SDK Reference](../../static/samples/BFG_WorkSample_03.png)</span>
+<span class="wrap">![Sample SDK Reference](../../static/samples/BFG/BFG_WorkSample_03.png)</span>
 
 When transitioning from Confluence to Docusaurus for documentation presentation, the team faced a major challenge: Doxygen has no native support for generating SDK documentation in Markdown. Since we needed to generate SDK references for Unity, Android, and iOS SDKs, finding a workaround was critical.
 
@@ -34,6 +34,11 @@ Beyond just conversion, I automated the entire documentation generation process 
 
 For approved work samples from Big Fish Games, please click any of the links below:
 
-- [Add OneLink to Associated Domains](../../static/samples/BFG_WorkSample_01.png) - Sample documentation for developers using BFG SDKs.
-- [Add the policy listener to your game](../../static/samples/BFG_WorkSample_02.png) - Sample documentation of adding a policy listener to developers games.
-- [SonarQube Code Analysis](../../static/samples/BFG_WorkSample_03.png) - Sample of a guide in explaining what SonarQube is and how to use it.
+- [Add OneLink to Associated Domains](../../static/samples/BFG/BFG_WorkSample_01.png)
+- [Add the policy listener to your game](../../static/samples/BFG/BFG_WorkSample_02.png)
+- [Android Utility Class](../../static/samples/BFG/BFG_WorkSample_03.png)
+- [SonarQube Code Analysis](../../static/samples/BFG/BFG_WorkSample_04.png)
+- [LeanPlum Documentation](../../static/samples/BFG/BFG_WorkSample_06.png)
+- [Creating Push Notifications](../../static/samples/BFG/BFG_WorkSample_07.png)
+- [Telemetry Events](../../static/samples/BFG/BFG_WorkSample_08a.png)
+- [Creating Custom Events with the BFG SDK](../../static/samples/BFG/BFG_WorkSample_08b.png)

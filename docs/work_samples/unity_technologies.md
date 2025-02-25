@@ -18,7 +18,7 @@ Leveraging my experience as a Unity 3D developer, programmer, and technical writ
 
 Working closely with engineers, designers, and educators, I ensured that Unity’s documentation was clear, accessible, and developer-friendly.
 
-<span class="sample-img">![Object Pooling Tutorial](../../static/samples/unity_learn_tut_01.png)</span>
+<span class="sample-img">![Object Pooling Tutorial](../../static/samples/Unity/unity_learn_tut_01.png)</span>
 
 ---
 
@@ -79,11 +79,13 @@ The provided work samples are approved subsections of the larger documentation. 
 :::
 
 **Sample Raw Documentation**
-- [Object Pooling](../../static/samples/unity_learn_01.pdf) - Tutorial in creating object pooling within Unity 3D.
-- [Profiler Window](../../static/samples/unity_learn_02.pdf) - Explanation of Unity 3D's profiling window and how to use it.
-- [Introduction to LWRP](../../static/samples/unity_learn_03.pdf) - An introduction to the Lightweight Rendering Pipeline.
+- [Object Pooling](../../static/samples/Unity/unity_learn_01.pdf) - Tutorial in creating object pooling within Unity 3D.
+- [Profiler Window](../../static/samples/Unity/unity_learn_02.pdf) - Explanation of Unity 3D's profiling window and how to use it.
+- [Introduction to LWRP](../../static/samples/Unity/unity_learn_03.pdf) - An introduction to the Lightweight Rendering Pipeline.
 
 **Sample Published Unity Learn Tutorials**
 - [Introduction to Object Pooling](https://learn.unity.com/tutorial/introduction-to-object-pooling)
 - [The PiXYZ Studio Interface](https://learn.unity.com/tutorial/the-pixyz-studio-interface)
 - [Setting up Bounced Indirect Lighting in HDRP](https://learn.unity.com/tutorial/setting-up-bounced-indirect-lighting-in-hdrp#)
+
+And many more! Additional Unity Learn courses will be provided upon request!

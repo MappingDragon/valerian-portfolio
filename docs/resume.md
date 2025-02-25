@@ -99,9 +99,32 @@ MAR 2017 - MAY 2018
 - Created **new workflows and documentation** for improved asset production.
 - Improved **3D modeling and UV wrapping processes** to enhance asset quality.
 
-### Additional Experience
+**Panther Systems Inc.** - _Software Engineer_
+May 2015 - Feb 2017
 
-Former **Software Engineer** at Panther Systems and **Software Test Engineer** at Intel. 
+- Sole sustaining engineer responsible for managing and maintaining **15+ software products**.
+- Designed and developed robust applications using **HTML5, .NET, C#, C++, and VB6** to meet client needs.
+- Refactored and modernized **legacy codebases**, improving maintainability and adopting **object-oriented programming (OOP)** principles.
+- Led the development of a **new web portal** using **Node.js and .NET**, enhancing system functionality and performance.
+- Collaborated with cross-functional teams to deliver **scalable, high-performance solutions** while ensuring seamless deployment through **Visual Studio Online (VSO)**.
+
+## Additional Experience
+
+**Liquid Development** - _Technical Artist_
+Nov 2014 - Mar 2015
+
+- Created **physically based rendering (PBR)** weapon skins for _Evolve_ using **Mudbox, Photoshop, and CryEngine**.
+- Modeled 3D assets for _Halo 5: Guardians_ multiplayer skins, translating **2D concept art into fully optimized 3D meshes**.
+- Developed **texture and material libraries using Photoshop and Quixel**, ensuring high-quality, game-ready assets.
+- Managed content delivery and **asset deployment using Perforce**, maintaining version control and team collaboration.
+        
+**Intel Corporation** - _Software Test Engineer_
+Jan 2014 - Jan 2015
+
+- Conducted **Bluetooth driver certification testing using WHQL/WHCK/WHLK**, ensuring compliance with industry standards.
+- Developed **automation scripts in Python, Perl, and Windows Batch** to streamline codebase management and testing processes.
+- Performed signal trace analysis on Bluetooth devices using **Ellisys and Frontline** debugging tools, identifying and resolving performance issues.
+- Assisted in the **development of testing frameworks and methodologies**, contributing to the efficiency of Intel's hardware validation processes.
 
 ### Education
 
