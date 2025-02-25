@@ -30,12 +30,12 @@ To achieve this, I utilized a combination of tools:
 
 This project was a fantastic experience that strengthened my skills in PBR workflows, material authoring, and game asset integration.
 
-<div class="responsive"><div class="gallery">![Evolve Asset](../../static/samples_art/evolve_01.png)</div></div>
-<div class="responsive"><div class="gallery">![Evolve Asset](../../static/samples_art/evolve_02.png)</div></div>
-<div class="responsive"><div class="gallery">![Evolve Asset](../../static/samples_art/evolve_03.png)</div></div>
-<div class="responsive"><div class="gallery">![Evolve Asset](../../static/samples_art/evolve_04.png)</div></div>
-<div class="responsive"><div class="gallery">![Evolve Asset](../../static/samples_art/evolve_05.png)</div></div>
-<div class="responsive"><div class="gallery">![Evolve Asset](../../static/samples_art/evolve_06.png)</div></div>
+<div class="responsive"><div class="gallery">![Evolve Asset](../../static/samples/3D_TechArt/evolve_01.png)</div></div>
+<div class="responsive"><div class="gallery">![Evolve Asset](../../static/samples/3D_TechArt/evolve_02.png)</div></div>
+<div class="responsive"><div class="gallery">![Evolve Asset](../../static/samples/3D_TechArt/evolve_03.png)</div></div>
+<div class="responsive"><div class="gallery">![Evolve Asset](../../static/samples/3D_TechArt/evolve_04.png)</div></div>
+<div class="responsive"><div class="gallery">![Evolve Asset](../../static/samples/3D_TechArt/evolve_05.png)</div></div>
+<div class="responsive"><div class="gallery">![Evolve Asset](../../static/samples/3D_TechArt/evolve_06.png)</div></div>
 
 ---
 
@@ -49,12 +49,12 @@ The skins were designed using a mask-based system, allowing players to customize
 
 Being part of the Halo 5: Guardians development process was an incredible experience. Seeing the skins come to life in-game and knowing players could customize them made it all the more rewarding!
 
-<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples_art/halo_01.png)</div></div>
-<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples_art/halo_02.png)</div></div>
-<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples_art/halo_03.png)</div></div>
-<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples_art/halo_04.png)</div></div>
-<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples_art/halo_05.png)</div></div>
-<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples_art/halo_06.png)</div></div>
-<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples_art/halo_07.png)</div></div>
-<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples_art/halo_08.png)</div></div>
-<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples_art/halo_09.png)</div></div>
+<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples/3D_TechArt/halo_01.png)</div></div>
+<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples/3D_TechArt/halo_02.png)</div></div>
+<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples/3D_TechArt/halo_03.png)</div></div>
+<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples/3D_TechArt/halo_04.png)</div></div>
+<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples/3D_TechArt/halo_05.png)</div></div>
+<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples/3D_TechArt/halo_06.png)</div></div>
+<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples/3D_TechArt/halo_07.png)</div></div>
+<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples/3D_TechArt/halo_08.png)</div></div>
+<div class="responsive"><div class="gallery">![Halo 5 Asset](../../static/samples/3D_TechArt/halo_09.png)</div></div>
