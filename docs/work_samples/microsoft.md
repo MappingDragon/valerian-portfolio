@@ -11,7 +11,7 @@ C#, JSON, GitHub, Amplify
 :::
 
 ## Microsoft Rave
-Role: Senior Technical Writer
+_Senior Technical Writer_
 
 <span class="wrap">![Amplify Reporting Tool](../../static/samples/Microsoft/amplify_reporting_pic.png)</span>
 
@@ -21,8 +21,8 @@ During my time on the team, I identified inefficiencies in the monthly reporting
 
 Beyond my core responsibilities, I expanded my documentation efforts across multiple collaborating teams, taking the lead on several projects. My proactive approach and willingness to take on additional responsibilities increased the documentation team’s reliability. As other contractors’ terms ended, I absorbed their duties, enhancing efficiency and product ownership within the team.
 
-## Microsoft Azure Bot Team
-Role: Programmer Writer
+## Microsoft FuseLabs Team
+_Programmer Writer_
 
 During my time at Microsoft with the FuseLabs team, I played a key role in producing and maintaining technical documentation, code samples, and developer guides for the Azure Bot Service. My work focused on updating and enhancing the online documentation to support the transition from Bot Framework SDK v3 to v4, ensuring developers had clear, accurate, and up-to-date resources.
 
@@ -31,7 +31,7 @@ I collaborated closely with engineers, product managers, and technical writers t
 Additionally, I worked on code sample creation and debugging, ensuring that the provided examples aligned with best practices and the latest SDK changes. My contributions helped streamline the onboarding experience for developers adopting the new version of the framework, improving documentation accessibility and effectiveness.
 
 ## Microsoft Minecraft
-Role: Tools Programmer
+_Tools Programmer_
 
 At Microsoft Minecraft, I served as a Tools Programmer, focusing on creating utilities and tools that significantly enhanced the art team's production pipeline and streamlined repetitive tasks. My work aimed to reduce manual effort and ensure efficiency, offering simple solutions with a single click. Below are a few key tools I developed:
 
