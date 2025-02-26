@@ -20,6 +20,18 @@ Caleb brings a unique blend of attention to detail, curiosity, and adaptability.
 
 ---
 
+<span class="recom_name">**[Robert Rapier](https://www.linkedin.com/in/robertrapier/)**</span> <FAIcon icon="fa-brands fa-linkedin" size="1x" /> | _Director of UI & UX at Big Fish Games_
+
+:::info[They Said...]
+
+I had the great pleasure of working with and mentoring Caleb Valerian at Big Fish Games where he consistently demonstrated exceptional consideration and expertise in Technical Documentation for our internal and external partners. His thoughtful, detail-oriented approach to his craft, combined with his regularly demonstrated technical competency of the content he managed, organized, and provided, were instrumental in delivering easily digestible user-friendly artifacts.
+
+Beyond his technical knowledge expert level documentation chops, Caleb is a proactive and collaborative team player who respectfully strives to elevate those around him. His professionalism and earnest desire for personal and professional growth made him an invaluable asset to our team. I highly recommend him for any senior or lead technical writing roles.
+
+:::
+
+---
+
 <span class="recom_name">**[Rachel DiPaola](https://www.linkedin.com/in/racheldipaola)**</span> <FAIcon icon="fa-brands fa-linkedin" size="1x" /> | _Chief of Staff & Senior Director, Transformation at Big Fish Games_
 
 :::info[They Said...]
