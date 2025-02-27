@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# 3D Technical Artist
+# Technical Art
 
 :::tip[Skills used...]
 
