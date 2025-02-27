@@ -20,6 +20,16 @@ Caleb brings a unique blend of attention to detail, curiosity, and adaptability.
 
 ---
 
+<span class="recom_name">**[Larry Plotnick](https://www.linkedin.com/in/larry-plotnick-7a361a2/)**</span> <FAIcon icon="fa-brands fa-linkedin" size="1x" /> | _President of Big Fish Games, ex-Amazon_
+
+:::info[They Said...]
+
+Caleb was a pleasure to work with at Big Fish as well as a top contributor. One example was when Caleb automated many of our manual workflows for compiling the SDK documentation, making our processes more efficient and more useful for users. Caleb also took on extra work to maintain the documentation with release notes, identifying improvements and maintaining communication across team. Caleb is a strong collaborator, and project manager who bring clarity, technical accuracy, audience awareness and strong editing and proofreading skills to everything they touch.
+
+:::
+
+---
+
 <span class="recom_name">**[Robert Rapier](https://www.linkedin.com/in/robertrapier/)**</span> <FAIcon icon="fa-brands fa-linkedin" size="1x" /> | _Director of UI & UX at Big Fish Games_
 
 :::info[They Said...]
