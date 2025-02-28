@@ -69,7 +69,7 @@ const AboutItemList: AboutItem[] = [
       <div className="aboutme_div">
       <p>I am a Senior Technical Writer with a strong background in technical documentation, automation, and developer experience (DX). With expertise in SDKs, APIs, and automation pipelines, I specialize in transforming complex technical concepts into clear, user-friendly documentation that enhances developer productivity.</p>
       <p>My experience spans software engineering, content strategy, and documentation automation, where I have successfully designed workflows, built tools, and optimized processes to improve efficiency.</p>
-      <p>Collaboration is at the core of my approach—I work closely with engineering, product, and UX teams to ensure documentation remains accurate, accessible, and aligned with evolving technology. My passion for streamlining developer integration, enhancing usability, and automating documentation workflows has driven impactful contributions across multiple industries, including gaming, cloud services, and AI-driven technologies.</p>
+      <p>Collaboration is at the core of my approach, I work closely with engineering, product and UX teams to ensure documentation remains accurate, accessible, and aligned with evolving technology. My passion for streamlining developer integration, enhancing usability, and automating documentation workflows has driven impactful contributions across multiple industries, including gaming, cloud services, and AI-driven technologies.</p>
       <p>With a deep technical foundation and a focus on continuous improvement, I am dedicated to bridging the gap between complex systems and seamless user experiences.</p>
       </div>
       </>
