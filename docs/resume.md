@@ -16,7 +16,7 @@ Experienced **Senior Technical Writer** and software engineer with a passion for
 
 - **Documentation Expertise**: SDK & API documentation, automation pipelines, version control, content strategy  
 - **Tools & Platforms**: Doxygen, DocFX, Docusaurus, Git, Confluence, Photoshop, Perforce, LLM, RAG  
-- **Languages**: Python, C\#, JavaScript, HTML, CSS, Markdown, XML, Powershell
+- **Languages**: C\#, C\+\+, .NET, Python, JavaScript, Powershell, HTML, CSS, Markdown, XML
 
 ### Soft Skills
 
