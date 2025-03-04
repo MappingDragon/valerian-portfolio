@@ -10,7 +10,7 @@ sidebar_position: 5
 
 :::
 
-## Evolve Gamed Assets
+## Evolve Game Assets
 
 When I had the opportunity to work on Evolve, I joined a team of talented artists at Liquid Development as a 3D Technical Artist. My primary responsibility was to take skin concepts designed by concept artists and bring them to life using Physically Based Rendering (PBR).
 
