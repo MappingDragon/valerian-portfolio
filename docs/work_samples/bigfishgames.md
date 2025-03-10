@@ -32,7 +32,7 @@ Beyond just conversion, I automated the entire documentation generation process 
 
 ## Additional Work Samples
 
-For approved work samples from Big Fish Games, please click any of the links below:
+For some of my work samples from Big Fish Games, please click any of the links below. You may also visit [Big Fish Games](https://docs.bigfishgames.com/) for full articles.
 
 - [Add OneLink to Associated Domains](../../static/samples/BFG/BFG_WorkSample_01.png)
 - [Add the policy listener to your game](../../static/samples/BFG/BFG_WorkSample_02.png)
