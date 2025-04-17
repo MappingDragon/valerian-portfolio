@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Caleb Valerian',
+  title: 'Theadora Valerian',
   tagline: 'Senior Technical Writer',
   favicon: 'img/favicon.ico',
 
@@ -75,7 +75,7 @@ const config: Config = {
           label: 'Recommendations',
         },
         {
-          href: 'https://www.linkedin.com/in/caleb-valerian/',
+          href: 'https://www.linkedin.com/in/theadora-valerian/',
           position: 'right',
           label: 'LinkedIn',
           className: 'navbar--linkedin-link',
@@ -94,7 +94,7 @@ const config: Config = {
       links: [
         {
           label: 'LinkedIn',
-          href: 'https://www.linkedin.com/in/caleb-valerian/',
+          href: 'https://www.linkedin.com/in/theadora-valerian/',
         },
         {
           label: 'GitHub',
