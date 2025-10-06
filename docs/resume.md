@@ -82,7 +82,7 @@ JAN 2019 - MAY 2019
 SEP 2018 - NOV 2018
 
 - **Updated Azure Bot Service documentation**, cutting user-reported **issues by 30%**.  
-* Developed and updated **C\# and JavaScript code samples** to align with SDK changes.  
+- Developed and updated **C\# and JavaScript code samples** to align with SDK changes.  
 - **Resolved technical documentation issues**, improving **user experience scores** in the Github repositories.
 
 **Earlier Technical & Engineering Roles**<br />
