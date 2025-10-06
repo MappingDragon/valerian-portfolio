@@ -51,7 +51,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/logo.png',
     navbar: {
-      title: 'Valerian\'s Portfolio',
+      title: 'Theadora\'s Portfolio',
       logo: {
         alt: '',
         src: 'img/logo.png',
