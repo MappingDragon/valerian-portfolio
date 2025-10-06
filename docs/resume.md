@@ -10,8 +10,6 @@ sidebar_position: 2
 SILVERDALE, WA 98383 | (425) 463-9237 <br />
 [theadoravalerian@gmail.com](mailto:theadoravalerian@gmail.com) | <FAIcon icon="fa-brands fa-linkedin" size="1x" /> [LinkedIn Profile](https://www.linkedin.com/in/theadora-valerian)
 
-Experienced **Senior Technical Writer** and software engineer with a passion for bridging the gap between developers and documentation. Expertise in automating documentation workflows, improving efficiency, and enhancing the developer experience through well-structured, user-centric documentation. Proven ability to translate complex technical concepts into clear, concise content for a wide range of audiences.
-
 ### Technical Skills
 
 - **Documentation Expertise**: SDK & API documentation, automation pipelines, version control, content strategy  
@@ -21,28 +19,35 @@ Experienced **Senior Technical Writer** and software engineer with a passion for
 ### Soft Skills
 
 - Strong interpersonal & collaboration skills
-- Ability to translate complex technical concepts into clear, user-friendly documentation
-- Process optimization and workflow efficiency
-- Visual communication & graphical representation of ideas
+- Clear translation of complex technical concepts
+- Process optimization & workflow efficiency
+- Visual communication & structured documentation design
 
 ### Experience
 
-**Big Fish Games** — _Senior Technical Writer_ <br />
-NOV 2021 - PRESENT
+**Aristocrat Gaming** — _Senior Technical Writer_ <br />
+APR 2025 - PRESENT
 
-- **Automated SDK documentation** by designing a **Doxygen-to-Docusaurus pipeline**, reducing **manual formatting time by 40%**.  
-- **Created API references and onboarding materials**, improving developer adoption and **reducing support tickets by 25%**.  
-- **Maintained Git-based version control** for documentation, ensuring **100% accuracy with each SDK release**.  
-- **Led content strategy improvements**, standardizing documentation and enhancing **clarity for over 200 developers**.  
-- Migrated company documentation from **Confluence to Git-based version control**, streamlining review cycles and enhancing user accessibility.
+- **Led disaster recovery documentation efforts** by building standardized **templates**, **training SMEs**, and collaborating with project managers to deliver **comprehensive DR runbooks**.  
+- **Directed major documentation projects** to create **business playbooks** that defined new workflows, improving **cross-team alignment** and **onboarding efficiency**.  
+- **Redesigned internal portals** to modernize structure, enhance **usability**, and make content more **accessible and informative**.  
+- **Partnered on Innovation Week initiatives** to deliver **AI-driven, award-winning projects**, earning **two internal recognition awards**. 
+
+**Big Fish Games** — _Senior Technical Writer_ <br />
+NOV 2021 - APR 2025
+
+- **Automated SDK documentation** by designing a Doxygen-to-Docusaurus pipeline, cutting manual formatting time by **40%**.  
+- **Created API references and onboarding materials**, increasing developer adoption and reducing support tickets by **25%**.  
+- Maintained **Git-based version control** to ensure 100% accuracy with each SDK release.  
+- **Standardized documentation processes**, improving clarity and consistency for over 200 developers.  
+- Migrated documentation from **Confluence to Git**, streamlining reviews and enhancing accessibility.  
 
 **Microsoft (Contract)** — _Senior Technical Writer_ <br />
 AUG 2020 - NOV 2021
 
-- **Developed C\# and JSON automation tools**, reducing documentation workflow inefficiencies by **30%**.  
-- **Authored and reviewed API documentation**, improving developer **comprehension and integration**.  
-- **Refined ADO and Git-based wiki foundation**, enhancing **searchability and accessibility for 500+ users**.
-- Collaborated with engineers, ensuring **98% accuracy** in technical content and **reducing revision cycles.**
+- Developed **C\# and JSON automation tools**, improving documentation workflow efficiency by **30%**.  
+- Authored and reviewed **API documentation**, improving developer comprehension and integration.  
+- Refined **ADO and Git wiki foundations**, enhancing searchability for over 500 users.  
 
 **Amazon - AWS Lumberyard (Contract)** — _Software Development Engineer in Test_ <br />
 JAN 2020 - JUN 2020
@@ -80,26 +85,16 @@ SEP 2018 - NOV 2018
 * Developed and updated **C\# and JavaScript code samples** to align with SDK changes.  
 - **Resolved technical documentation issues**, improving **user experience scores** in the Github repositories.
 
-**Facebook (Contract)** — _Software Engineer_ <br />
-MAY 2017 - FEB 2018
+**Earlier Technical & Engineering Roles**<br />
+JAN 2014 - SEP 2018
 
-- **Integrated AR assets, shaders, and animations**, reducing rendering **errors by 35%**.  
-- **Developed workflow guides** for third-party integrations, improving **onboarding speed of developers**.
-
-**Microsoft Minecraft (Contract)** — _Tools Programmer_ <br />
-MAR 2017 - MAY 2018
-
-- **Developed internal C\# and Python tools**, accelerating art team **pipeline efficiency and asset deployment** to multiple platforms.  
-- **Refined 3D modeling workflows**, improving asset quality and **reducing production time by 35%**.
-
-**Panther Systems Inc.** - _Software Engineer_ <br />
-May 2015 - Feb 2017
-
-- **Managed 15+ software products**, maintaining **99.9% uptime**.  
-- **Refactored legacy codebases**, improving **performance by 25%**.  
-- **Developed a web portal in Node.js and .NET**, cutting **manual data processing time by 75%**.
+- **Facebook** *(Software Engineer)* - MAY 2017 - FEB 2018
+- **Microsoft Minecraft** *(Tools Programmer)* - MAR 2017 - MAY 2017
+- **Panther Systems, Inc.** *(Software Engineer)* - MAY 2015 - FEB 2017
+- **Liquid Development** *(Technical Artist)* - NOV 2014 - MAR 2015
+- **Intel** *(Software Test Engineer)* - JAN 2014 - JAN 2015
 
 ### Education
 
-**The Art Institute of Portland,** B.S. in Computer Science, Sep 2015
-**Portland Community College,** A.S in  Science, Jun 2011
+**The Art Institute of Portland** - B.S. in Computer Science, SEP 2015
+**Portland Community College** - A.S in  Science, JUN 2011
