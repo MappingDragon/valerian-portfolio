@@ -96,5 +96,5 @@ JAN 2014 - SEP 2018
 
 ### Education
 
-**The Art Institute of Portland** - B.S. in Computer Science, SEP 2015
+**The Art Institute of Portland** - B.S. in Computer Science, SEP 2015 <br />
 **Portland Community College** - A.S in  Science, JUN 2011
