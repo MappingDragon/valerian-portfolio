@@ -34,9 +34,9 @@ Theadora was a pleasure to work with at Big Fish as well as a top contributor. O
 
 :::info[They Said...]
 
-I had the great pleasure of working with and mentoring Theadora Valerian at Big Fish Games where he consistently demonstrated exceptional consideration and expertise in Technical Documentation for our internal and external partners. His thoughtful, detail-oriented approach to his craft, combined with his regularly demonstrated technical competency of the content he managed, organized, and provided, were instrumental in delivering easily digestible user-friendly artifacts.
+I had the great pleasure of working with and mentoring Theadora Valerian at Big Fish Games where he consistently demonstrated exceptional consideration and expertise in Technical Documentation for our internal and external partners. Her thoughtful, detail-oriented approach to her craft, combined with her regularly demonstrated technical competency of the content he managed, organized, and provided, were instrumental in delivering easily digestible user-friendly artifacts.
 
-Beyond his technical knowledge expert level documentation chops, Theadora is a proactive and collaborative team player who respectfully strives to elevate those around him. His professionalism and earnest desire for personal and professional growth made him an invaluable asset to our team. I highly recommend him for any senior or lead technical writing roles.
+Beyond her technical knowledge expert level documentation chops, Theadora is a proactive and collaborative team player who respectfully strives to elevate those around him. Her professionalism and earnest desire for personal and professional growth made him an invaluable asset to our team. I highly recommend him for any senior or lead technical writing roles.
 
 :::
 
@@ -46,7 +46,7 @@ Beyond his technical knowledge expert level documentation chops, Theadora is a p
 
 :::info[They Said...]
 
-Theadora is an exceptional senior technical writer at Big Fish Games, combining deep technical expertise with a talent for clear, engaging documentation. His ability to distill complex information into user-friendly content has been invaluable in enhancing both internal and external partner-facing materials. Theadora’s keen eye for detail, strong collaboration skills, and commitment to delivering high-quality work make him a standout in his field. He is not only a skilled writer but also a creative problem-solver who elevates every project he touches. Any team would be lucky to have him!
+Theadora is an exceptional senior technical writer at Big Fish Games, combining deep technical expertise with a talent for clear, engaging documentation. Her ability to distill complex information into user-friendly content has been invaluable in enhancing both internal and external partner-facing materials. Theadora’s keen eye for detail, strong collaboration skills, and commitment to delivering high-quality work make him a standout in her field. He is not only a skilled writer but also a creative problem-solver who elevates every project he touches. Any team would be lucky to have him!
 
 :::
 
