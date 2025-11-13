@@ -25,7 +25,7 @@ SILVERDALE, WA 98383 | (425) 463-9237 <br />
 
 ### Experience
 
-**Aristocrat Gaming** — _Senior Technical Writer_ <br />
+**Aristocrat** — _Senior Technical Writer_ <br />
 APR 2025 - PRESENT
 
 - **Led disaster recovery documentation efforts** by building standardized **templates**, **training SMEs**, and collaborating with project managers to deliver **comprehensive DR runbooks**.  
