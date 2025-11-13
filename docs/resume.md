@@ -14,7 +14,7 @@ SILVERDALE, WA 98383 | (425) 463-9237 <br />
 
 - **Documentation Expertise**: SDK & API documentation, automation pipelines, version control, content strategy  
 - **Tools & Platforms**: Doxygen, DocFX, Docusaurus, Git, Confluence, Photoshop, Perforce, LLM, RAG  
-- **Languages**: C\#, C\+\+, .NET, Python, JavaScript, Powershell, HTML, CSS, Markdown, XML
+- **Languages**: C\#, C\+\+, .NET, Python, JavaScript, PowerShell, HTML, CSS, Markdown, XML
 
 ### Soft Skills
 
@@ -83,7 +83,7 @@ SEP 2018 - NOV 2018
 
 - **Updated Azure Bot Service documentation**, cutting user-reported **issues by 30%**.  
 - Developed and updated **C\# and JavaScript code samples** to align with SDK changes.  
-- **Resolved technical documentation issues**, improving **user experience scores** in the Github repositories.
+- **Resolved technical documentation issues**, improving **user experience scores** in the GitHub repositories.
 
 **Earlier Technical & Engineering Roles**<br />
 JAN 2014 - SEP 2018
@@ -97,4 +97,4 @@ JAN 2014 - SEP 2018
 ### Education
 
 **The Art Institute of Portland** - B.S. in Computer Science, SEP 2015 <br />
-**Portland Community College** - A.S in  Science, JUN 2011
+**Portland Community College** - A.S in Science, JUN 2011
