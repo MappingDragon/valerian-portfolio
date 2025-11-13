@@ -49,14 +49,14 @@ AUG 2020 - NOV 2021
 - Authored and reviewed **API documentation**, improving developer comprehension and integration.  
 - Refined **ADO and Git wiki foundations**, enhancing searchability for over 500 users.  
 
-**Amazon - AWS Lumberyard (Contract)** — _Software Development Engineer in Test_ <br />
+**Amazon - AWS Lumberyard (Contract)** — _Technical Writer II_ <br />
 JAN 2020 - JUN 2020
 
 - **Condensed 100+ pages of complex build documentation** into a **10-page developer-friendly guide**, reducing onboarding time.  
 - **Automated test cases in C++/Python**, increasing **testing efficiency by 35%**.  
 - **Developed reusable pytest utilities**, reducing **redundant test creation**.
 
-**Amazon - FMA & AWS (Contract)** — _Technical Writer_ <br />
+**Amazon - FMA & AWS (Contract)** — _Technical Writer II_ <br />
 MAY 2019 - JAN 2020
 
 - Led a **complete overhaul** of corporate technical documentation, increasing site traffic by 70%.  
